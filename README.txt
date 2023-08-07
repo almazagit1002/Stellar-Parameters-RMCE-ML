@@ -16,7 +16,7 @@ The background for the package is described in
   August 2023
 
 The newest version of the package together with the thesis can be found on GitHub:
-  https://github.com/...
+  https://github.com/almazagit1002/Stellar-Parameters-RMCE-ML.git
 
 For each of the languages the package contains:
   (1) internal routines specific to handling the neural networks
